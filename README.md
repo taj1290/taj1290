@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Mansoor Alam
-- 👀 I’m interested in Deep learning, Computer vision, and Medical imaging 
-- 🌱 I’m currently learning Machine learning, Deep learning, Computer vision.
-- 💞️ I’m looking to collaborate on Medical imaging, Machine leanring,Deep learning, Computer vision, Image processing. 
-- 📫 How to reach me (12pwmct0216@uetpeshawar.edu.pk)
+- 👀 I’m interested in Deep learning, Computer vision, Robotics, and Medical imaging 
+- 🌱 I’m currently learning Machine learning, Deep learning, Computer vision, and Robotics.
+- 💞️ I’m looking to collaborate on Medical imaging, Machine learning, Deep learning, Computer vision, and Image processing. 
+- 📫 How to reach me (robotics.matlab@gmail.com)
 
 <!---
 taj1290/taj1290 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
