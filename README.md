@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Mansoor Alam
-- 👀 I’m interested in Deep learning, Computer vision, Robotics, and Medical imaging 
-- 🌱 I’m currently learning Machine learning, Deep learning, Computer vision, and Robotics.
+- 👀 I’m expert in Deep learning, Computer vision, Robotics, and Medical imaging 
 - 💞️ I’m looking to collaborate on Medical imaging, Machine learning, Deep learning, Computer vision, and Image processing. 
 - 📫 How to reach me (robotics.matlab@gmail.com)
 
